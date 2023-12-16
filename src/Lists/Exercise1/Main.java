@@ -16,4 +16,5 @@ public class Main {
         Names.printInitialList(namesList);
         Names.sortAndPrintList(namesList);
     }
+
 }

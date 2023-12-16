@@ -16,4 +16,5 @@ public class Main {
         Fruits1.printInitialList(fruitsList);
         Fruits1.printPartOfList2(fruitsList, 1, 3);
     }
+
 }

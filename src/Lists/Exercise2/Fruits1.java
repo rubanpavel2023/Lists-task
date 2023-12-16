@@ -22,6 +22,7 @@ public class Fruits1 {
             System.out.println(count + ") " + name);
         }
     }
+
 }
 
 
